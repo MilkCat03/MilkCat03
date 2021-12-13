@@ -1,2 +1,2 @@
-- Hello I am MrFlipPhone!
-I personally like to code and make shit.
+- hi. i am MrFlipPhone,
+i code and make shit.
